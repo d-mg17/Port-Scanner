@@ -7,7 +7,7 @@ Easy-to-use port scanner program written in Python using the built-in module Soc
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/d-mg17/Port-Scanner?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/d-mg17/Poert-Scanner?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/d-mg17/Port-Scanner?color=56BEB8">
 
   <img alt="License" src="https://img.shields.io/github/license/d-mg17/Port-Scanner?color=56BEB8">
 
