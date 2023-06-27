@@ -32,4 +32,4 @@ Easy-to-use port scanner program written in Python using the built-in module Soc
 ## Documentation
 
 - [The 8 Most Vulnerable Ports to Check when Pentesting](https://www.makeuseof.com/vulnerable-ports-check-when-pentesting/)
-- [Inspiration](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893#weatherapi)
+- [Inspiration](https://www.pythonforbeginners.com/code-snippets-source-code/port-scanner-in-python)
