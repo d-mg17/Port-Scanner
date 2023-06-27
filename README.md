@@ -20,7 +20,7 @@ Easy-to-use port scanner program written in Python using the built-in module Soc
 
 ## Tech Stack
 
-**Client:** Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 
 
 
